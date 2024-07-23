@@ -18,7 +18,6 @@ export const Navbar = () => {
       </div>
       <div className="flex gap-6">
         <Link to="/blog"><span className="hover:underline">Blog</span></Link>
-        <Link to="/contactUs" ><span className="hover:underline">Contact Us</span></Link>
         <Link to="/enquiry"><span className="hover:underline">Enquiry Now</span></Link>
       </div>
     </nav>
